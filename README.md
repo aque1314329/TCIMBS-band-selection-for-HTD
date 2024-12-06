@@ -1,1 +1,10 @@
-# TCIMBS
+# TCIMBS 🚀
+
+Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection
+> https://ieeexplore.ieee.org/document/9178496
+
+## Abstract
+
+Wealthy spectral information provided by hyperspectral image (HSI) offers great benefits for many applications in hyperspectral data exploitation. However, processing such high-dimensional data volumes that may result in redundant bands due to its high interband correlation will be a challenge. For target detection and classification, this is particularly true since there may only need a relatively small number of bands that respond one particular target of interest well, while most of other bands do not. Band selection (BS) is a major dimensionality reduction technique to remove the redundant bands and selects a few bands to represent the entire image. However, how to eliminate the effect of uninteresting targets with similar spectra on detection of interesting targets is a severe issue arising in target detection for BS. This article develops a new approach called target-constrained interference-minimized BS (TCIMBS) which can be used to select band subset for specific target detection, while annihilating targets of no interest and suppressing interferers and background. Its idea is derived from target-constrained interference-minimized filter (TCIMF). By taking advantage of TCIMF, two band prioritization (BP) criteria called forward minimum variance BP (FMinV-BP) and backward maximum variance BP (BMaxV-BP) along with their three band search-based BS counterparts called sequential forward TCIMBS (SF-TCIMBS), sequential backward TCIMBS (SB-TCIMBS), and improved SB-TCIMBS (SB-TCIMBS*) are derived. The experimental results suggest that TCIMBS can improve the detection accuracy and also achieve better performance in comparison with several state-of-the-art methods.
+
+X. Shang et al., Target-Constrained Interference-Minimized Band Selection for Hyperspectral Target Detection. IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 7, pp. 6044-6064, July 2021.
