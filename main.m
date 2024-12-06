@@ -9,7 +9,6 @@
 % IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 7, pp. 
 % 6044-6064, July 2021.
 %
-% contact: shangxiaodi@qq.com (Xiaodi Shang)
 %--------------------------------------------------------------------------
 
 VD_num = 18;
